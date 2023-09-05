@@ -10,4 +10,4 @@
 
 ### Всякие штуки
 
-- Sup board
+- ~~Sup board~~
