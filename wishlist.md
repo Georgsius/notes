@@ -12,4 +12,5 @@
 
 ### Всякие штуки
 
+- [RAM TRX](https://www.ramtrucks.com/trx.html)
 - ~~Sup board~~
