@@ -3,7 +3,7 @@
 ### Электроника
 
 - Apple Watch Ultra 2 / Apple Watch Series 9
-- iPhone 15 pro
+- ~~iPhone 15 pro~~
 - Apple AirPods Max
 
 ### Одежда
