@@ -4,3 +4,4 @@
 - BeatByte
 - Отжиг
 - Bluegrass Highway
+- Galactic Harmony
