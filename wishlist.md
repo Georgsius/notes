@@ -2,7 +2,6 @@
 
 ### Электроника
 
-- Apple Watch Ultra 2 / Apple Watch Series 9
 - Apple AirPods Max
 - Meta Quest 3
 
